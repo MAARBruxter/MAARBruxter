@@ -1,6 +1,8 @@
 <h2 align="left">¡Buenas!</h2>
 
+<p>Recently I'm finishing my title to be a Web Developer. After that I have plans to become a Game Developer, and make an Indie Game of my own!</p>
 
+<p>Right now I have a few projects posted (and a few on the making), but I usually made them using:</p>
 
 ###
 
