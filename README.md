@@ -50,8 +50,6 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 
 ### 🎛️ Operating Systems
 <span>
-  <img alt="NixOS" src="https://img.shields.io/badge/NIX-5277C3.svg?logo=NixOS&logoColor=white">
-  <img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff">
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
