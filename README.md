@@ -12,7 +12,14 @@ As a personal goal, I aspire to develop an Indie video game by recruiting a team
 Overall, I still consider myself a beginner in this world, but one equipped with the tools necessary to start gaining experience — so I’ll keep going… and I’ll keep learning!
 </p>
 
-<p>Right now I have a few projects posted (and a few on the making), but I usually made them using:</p>
+### 📋 Programming languages
+<span>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+</span>
 
 ###
 
