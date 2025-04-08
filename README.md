@@ -77,7 +77,7 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 </span>
 
-###
+## <img  src="https://i.pinimg.com/originals/92/c8/fb/92c8fb21c3e4a3ea7485a621193e67bb.gif" width ="25"><b> Social Media</b>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
