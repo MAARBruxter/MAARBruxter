@@ -21,6 +21,7 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 
 ### ⚙️ Backend Development
 <span>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23121011.svg?logo=laravel&logoColor=red">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
