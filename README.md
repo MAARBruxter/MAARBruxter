@@ -29,6 +29,13 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 </span>
 
+### ☁️ Cloud
+<span>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white">
+  <img alt="CloudFlare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white">
+</span>
+
 ###
 
 <div align="center">
