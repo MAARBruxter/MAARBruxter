@@ -61,6 +61,19 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
 </span>
 
+### 🥅 Others
+<span>
+  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
+  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white">
+  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white">
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white">
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white">
+  <img alt="NextCloud" src="https://img.shields.io/badge/Next%20Cloud-0B94DE?logo=nextcloud&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img alt="Tauri" src="https://img.shields.io/badge/tauri-%2324C8DB.svg?logo=tauri&logoColor=%23FFFFFF"/>
+</span>
+
 ###
 
 <div align="center">
