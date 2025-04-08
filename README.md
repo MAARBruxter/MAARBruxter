@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="180" src="https://media1.tenor.com/m/PyC8GmNandoAAAAd/good-morning-omori.gif"  />
+  <img height="250" src="https://media1.tenor.com/m/PyC8GmNandoAAAAd/good-morning-omori.gif"  />
 </div>
 
 ###
