@@ -37,11 +37,9 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 ### ♾️ DevOps
 <span>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
-  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23181717.svg?logo=gitlab&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
-  <img alt="WireGuard" src="https://img.shields.io/badge/wireguard-%2388171A.svg?logo=wireguard&logoColor=white">
 </span>
 
 ###
