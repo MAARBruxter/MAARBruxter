@@ -29,6 +29,7 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 
 ### 🎨 Frontend Development
 <span>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-%23121011.svg?logo=angular&logoColor=red">
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
