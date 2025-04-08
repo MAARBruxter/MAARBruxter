@@ -27,9 +27,6 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?logo=Prisma&logoColor=white"/>
 </span>
 
 ###
