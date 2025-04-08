@@ -82,7 +82,7 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 ## <img  src="https://cdn-icons-gif.flaticon.com/6416/6416353.gif" width ="25"><b> Social Media</b>
 
 <div align="left">
-  <a src="https://www.youtube.com/@bruxter1677">
+  <a href="https://www.youtube.com/@bruxter1677" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
