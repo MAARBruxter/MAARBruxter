@@ -19,10 +19,8 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-### 📋 Programming languages
+### 📋 Backend Development
 <span>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
@@ -33,6 +31,8 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
 </span>
 
