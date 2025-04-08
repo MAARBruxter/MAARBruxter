@@ -19,7 +19,7 @@ Overall, I still consider myself a beginner in this world, but one equipped with
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
-### 📋 Backend Development
+### ⚙️ Backend Development
 <span>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
@@ -49,13 +49,13 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
 </span>
 
-### 💾 Databases
+### 📚 Databases
 <span>
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
 </span>
 
-### 🎛️ Operating Systems
+### 💻 Operating Systems
 <span>
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
@@ -68,7 +68,7 @@ Overall, I still consider myself a beginner in this world, but one equipped with
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
 </span>
 
-### 🥅 Others
+### 🔎 Others
 <span>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
   <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white">
