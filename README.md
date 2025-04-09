@@ -8,7 +8,7 @@
 <h2 align="left">💫 About me</h2>
 
 <p>I am a <b>Web Application Developer</b> who recently completed a degree in <b>Web Application Development (DAW)</b>. I plan to take a specialization course in video game development once I obtain my degree, and from there, I aim to look for a job as a Web Application Developer — but that’s not where it ends!<br><br>
-As a personal goal, I aspire to develop an Indie video game by recruiting a team of passionate individuals from the field. So far, I’ve already teamed up with an artist who has created the initial character sketches, and I hope to collaborate with another developer who has previously worked on some projects using Unity. On my end, I’ve been developing a mod for the video game <i>OMORI</i>, which has led me to start learning the basics of <b>RPG Maker</b> — even to the point of combining existing scripts and creating some of my own.<br><br>
+As a personal goal, I aspire to develop an Indie video game by recruiting a team of passionate developers from the field. So far, I’ve already teamed up with an artist who has created the initial character sketches, and I hope to collaborate with another developer who has previously worked on some projects using Unity. On my end, I’ve been developing a mod for the video game <i>OMORI</i>, which has led me to start learning the basics of <b>RPG Maker</b> — even to the point of combining existing scripts and creating some of my own.<br><br>
 Overall, I still consider myself a beginner in this world, but one equipped with the tools necessary to start gaining experience — so I’ll keep going… and I’ll keep learning!
 </p>
 
